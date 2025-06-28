@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --prefersdark, dark --prefersdark, cupcake, cyberpunk, bumblebee, valentine, aqua --default, wireframe, black --prefersdark;
+}
